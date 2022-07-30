@@ -62,25 +62,29 @@
                 android:layout_marginTop="20dp">
 
                 <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/edittextview"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="e.g Mostafa"
                     android:inputType="textCapWords"
                     android:textColor="#363A43"
-                    android:textColorHint="#7A8089">
+                    android:textColorHint="#7A8089"
+                    tools:ignore="SpeakableTextPresentCheck">
 
                 </androidx.appcompat.widget.AppCompatEditText>
 
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
+                android:id="@+id/btn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
                 android:background="@color/design_default_color_background"
                 android:text="Start"
                 android:textColor="@color/white"
-                android:textSize="18dp">
+                android:textSize="18dp"
+                tools:ignore="TextContrastCheck">
 
             </Button>
 
