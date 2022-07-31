@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.248" />
+        <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/drawable/defalut_option_porder_bg.xml" value="0.26" />
         <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.248" />
+        <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/drawable/selected_option_bordered_bg.xml" value="0.219" />
         <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/layout/activity_quiz_question.xml" value="0.264" />
+        <entry key="..\:/Users/Administrator/Documents/QuizApp/app/src/main/res/layout/activity_quiz_question.xml" value="0.2" />
       </map>
     </option>
   </component>
